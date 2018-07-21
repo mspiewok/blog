@@ -1,1 +1,1 @@
-This is just a test application. But it might growing in the near future.
+This is just a test application. But it might be more in the near future.
